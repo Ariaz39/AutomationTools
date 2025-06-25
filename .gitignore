@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+soporte_tool.log
+
+# Backups
+backups/
+*.bak
+*.tmp
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python dotenv environment variables
+.env
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Flet cache
+.flet/
